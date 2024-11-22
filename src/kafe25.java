@@ -14,4 +14,3 @@ public class kafe25 {
         menu();
     }
 }
-
